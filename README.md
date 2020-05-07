@@ -24,4 +24,4 @@ The Josephus Problem results are shown here:
 
 @Video
 
-[./josephus-by-Daniel-Erman-Numberphile.gif](./josephus-by-Daniel-Erman-Numberphile.gif)
+![./josephus-by-Daniel-Erman-Numberphile.gif](./josephus-by-Daniel-Erman-Numberphile.gif)
