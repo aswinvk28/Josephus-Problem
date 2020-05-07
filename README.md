@@ -22,3 +22,6 @@ The Josephus Problem results are shown here:
 
 [https://www.numberphile.com/](https://www.numberphile.com/)
 
+@Video
+
+[./josephus-by-Daniel-Erman-Numberphile.gif](./josephus-by-Daniel-Erman-Numberphile.gif)
